@@ -38,7 +38,11 @@ ________________________________________________________________________________
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]("https://i.ibb.co/znW0GNN/Caputre-1.png")
+![Game Screenshot](./Packages/Caputre1.PNG)
+![Game Screenshot](./Packages/Capture2.PNG)
+![Game Screenshot](./Packages/Capture.PNG)
+
+
 
 
 This is for performing CRUD operations in relation to managing students in a given organization. Currently the main focus of the project is to build a RESTful API with JWT. Addition of front-end will began soon, along with the integration of all API functions.
