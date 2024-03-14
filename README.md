@@ -45,8 +45,6 @@ ________________________________________________________________________________
 
 
 
-This is for performing CRUD operations in relation to managing students in a given organization. Currently the main focus of the project is to build a RESTful API with JWT. Addition of front-end will began soon, along with the integration of all API functions.
-
 Features:
 * Scoring 
 * Asset animations
